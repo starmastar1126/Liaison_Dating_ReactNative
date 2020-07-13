@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1005316895183",
+    "firebase_url": "https://liaison-fe1e7.firebaseio.com",
+    "project_id": "liaison-fe1e7",
+    "storage_bucket": "liaison-fe1e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005316895183:android:078b3c84fd82eff6",
+        "android_client_info": {
+          "package_name": "com.liaison"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005316895183-0tbvgnh9rhvg9svjr479kr5igi8l6pbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liaison",
+            "certificate_hash": "c237045f5085f27ec0a139f95e3fbffb3c649e85"
+          }
+        },
+        {
+          "client_id": "1005316895183-8s3r55g4oqvnsq1h49gv8uo0cd8seok6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuD6QQh3QXJXpVTJCDlpCjf6AMwrMq1r8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005316895183-8s3r55g4oqvnsq1h49gv8uo0cd8seok6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
